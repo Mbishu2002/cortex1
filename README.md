@@ -1,2 +1,2 @@
-# hive-byt
-an ai model for interactive personalized learning. cortex simulation
+# cortex
+an ai model trying to simulate the human brain cortex, used in selfbyt
